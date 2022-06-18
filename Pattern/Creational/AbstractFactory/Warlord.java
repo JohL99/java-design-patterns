@@ -20,7 +20,7 @@ public class Warlord implements Ork {
     // Implementation of the ork interface.
     @Override
     public void warcry() {
-        System.out.println("WAAAGH!\n I have " + this.victories + " victories!");
+        System.out.println("WAAAGH!\nI have " + this.victories + " victories!");
         
     }
     

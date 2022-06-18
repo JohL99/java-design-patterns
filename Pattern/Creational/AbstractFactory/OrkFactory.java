@@ -7,15 +7,15 @@ package Pattern.Creational.AbstractFactory;
 public abstract interface OrkFactory {
     /**
      * This method returns a new WarLord.
-     * @param v The victory count of the new WarLord.
+     * @param victories The victory count of the new WarLord.
      * @return The new WarLord.
      */
-    public abstract Ork createWarlord(int v); // WarLord creation.
+    public abstract Ork createWarlord(int victories); // WarLord creation.
 
     /**
      * This method returns a new WarBoss.
-     * @param m The minion count of the new WarBoss.
+     * @param minions The minion count of the new WarBoss.
      * @return The new WarBoss.
      */
-    public abstract Ork createWarboss(int m); // WarBoss creation.
+    public abstract Ork createWarboss(int minions); // WarBoss creation.
 }
