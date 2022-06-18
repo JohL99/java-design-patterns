@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Pattern.Behavioural.Command"},{"l":"Pattern.Behavioural.Observer"},{"l":"Pattern.Behavioural.Visitor"},{"l":"Pattern.Creational.AbstractFactory"},{"l":"Pattern.Creational.ObjectPool"},{"l":"Pattern.Structural.Adapter"},{"l":"Pattern.Structural.Facade"},{"l":"Pattern.Structural.Proxy"}]
