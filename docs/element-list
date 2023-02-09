@@ -1,8 +1,0 @@
-Pattern.Behavioural.Command
-Pattern.Behavioural.Observer
-Pattern.Behavioural.Visitor
-Pattern.Creational.AbstractFactory
-Pattern.Creational.ObjectPool
-Pattern.Structural.Adapter
-Pattern.Structural.Facade
-Pattern.Structural.Proxy
