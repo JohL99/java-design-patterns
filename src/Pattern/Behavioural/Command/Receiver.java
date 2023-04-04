@@ -23,6 +23,6 @@ public class Receiver {
     public void turnOff(){
         System.out.println("Receiver is off");
     };
-    }
+}
     
 
